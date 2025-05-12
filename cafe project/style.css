@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px
+    ;
+}
+
+.title{
+    font-size: 70px;
+    background-color: green;
+    text-align: center;
+    height: 100px;
+    font-weight: 600;
+
+
+}
+
+  
+.head{
+   
+    background-color: greenyellow;
+    font-size: 3rem;
+    text-decoration: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav.head a{
+    text-decoration: none;
+}
+
+.logo{
+    color: brown;
+font-size: 50px;
+font-family:cursive;
+
+}
+.last{
+    color: red;
+    font-family:cursive;}
